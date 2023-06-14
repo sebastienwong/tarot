@@ -1,0 +1,92 @@
+{
+  "cards": [
+    {
+      "name": "The Fool",
+      "src": "./assets/fool.svg"
+    },
+    {
+      "name": "The Throne",
+      "src": "./assets/throne.svg"
+    },
+    {
+      "name": "The Key",
+      "src": "./assets/key.svg"
+    },
+    {
+      "name": "The Knight",
+      "src": ""
+    },
+    {
+      "name": "The Void",
+      "src": "./assets/void.svg"
+    },
+    {
+      "name": "The Flames",
+      "src": "./assets/flames.svg"
+    },
+    {
+      "name": "The Skull",
+      "src": "./assets/skull.svg"
+    },
+    {
+      "name": "Ruin",
+      "src": ""
+    },
+    {
+      "name": "Euryale",
+      "src": "./assets/euryale.svg"
+    },
+    {
+      "name": "The Rogue",
+      "src": "./assets/rogue.svg"
+    },
+    {
+      "name": "Balance",
+      "src": "./assets/justice.svg"
+    },
+    {
+      "name": "The Comet",
+      "src": "./assets/comet.svg"
+    },
+    {
+      "name": "The Fates",
+      "src": "./assets/hanged-man.svg"
+    },
+    {
+      "name": "The Idiot",
+      "src": ""
+    },
+    {
+      "name": "The Gem",
+      "src": "./assets/gem.svg"
+    },
+    {
+      "name": "The Jester",
+      "src": ""
+    },
+    {
+      "name": "The Talons",
+      "src": "./assets/talons.svg"
+    },
+    {
+      "name": "The Star",
+      "src": "./assets/star.svg"
+    },
+    {
+      "name": "The Moon",
+      "src": "./assets/moon.svg"
+    },
+    {
+      "name": "The Sun",
+      "src": "./assets/sun.svg"
+    },
+    {
+      "name": "The Vizier",
+      "src": ""
+    },
+    {
+      "name": "Donjon",
+      "src": "./assets/tower.svg"
+    }
+  ]
+}

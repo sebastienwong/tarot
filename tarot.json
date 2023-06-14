@@ -2,158 +2,98 @@
   "cards": [
     {
       "name": "The Fool",
-      "number": "0",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/fool.svg"
     },
     {
       "name": "The Magician",
-      "number": "1",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/magician.svg"
     },
     {
       "name": "The High Priestess",
-      "number": "2",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/high-priestess.svg"
     },
     {
       "name": "The Empress",
-      "number": "3",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/empress.svg"
     },
     {
       "name": "The Emperor",
-      "number": "4",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/emperor.svg"
     },
     {
       "name": "The Hierophant",
-      "number": "5",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/hierophant.svg"
     },
     {
       "name": "The Lovers",
-      "number": "6",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/lovers.svg"
     },
     {
       "name": "The Chariot",
-      "number": "7",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/chariot.svg"
     },
     {
       "name": "Strength",
-      "number": "8",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/strength.svg"
     },
     {
       "name": "The Hermit",
-      "number": "9",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/hermit.svg"
     },
     {
       "name": "Wheel of Fortune",
-      "number": "10",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/wheel-of-fortune.svg"
     },
     {
       "name": "Justice",
-      "number": "11",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/justice.svg"
     },
     {
       "name": "The Hanged Man",
-      "number": "12",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/hanged-man.svg"
     },
     {
       "name": "Death",
-      "number": "13",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/death.svg"
     },
     {
       "name": "Temperance",
-      "number": "14",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/temperance.svg"
     },
     {
       "name": "The Devil",
-      "number": "15",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/devil.svg"
     },
     {
       "name": "The Tower",
-      "number": "16",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/tower.svg"
     },
     {
       "name": "The Star",
-      "number": "17",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/star.svg"
     },
     {
       "name": "The Moon",
-      "number": "18",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/moon.svg"
     },
     {
       "name": "The Sun",
-      "number": "19",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/sun.svg"
     },
     {
       "name": "Judgement",
-      "number": "20",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/judgement.svg"
     },
     {
       "name": "The World",
-      "number": "21",
-      "arcana": "Major Arcana",
-      "suit": null,
       "src": "./assets/world.svg"
     },
+    {
+      "name": "Throne",
+      "src": "./assets/world.svg"
+    },
+
+    
     {
       "name": "Ace of Cups",
       "number": "1",

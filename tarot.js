@@ -1,6 +1,6 @@
 var cards;
 
-fetch('./tarot.json')
+fetch('./many_things.json')
   .then(response => response.json())
   .then(data => {
     console.log(data)
