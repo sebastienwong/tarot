@@ -2,7 +2,7 @@
   "cards": [
     {
       "name": "The Fool",
-      "src": "./assets/fool.svg"
+      "src": "./assets/hermit.svg"
     },
     {
       "name": "The Throne",
@@ -14,7 +14,7 @@
     },
     {
       "name": "The Knight",
-      "src": ""
+      "src": "./assets/knight.svg"
     },
     {
       "name": "The Void",
@@ -30,7 +30,7 @@
     },
     {
       "name": "Ruin",
-      "src": ""
+      "src": "./assets/ruin.svg"
     },
     {
       "name": "Euryale",
@@ -54,7 +54,7 @@
     },
     {
       "name": "The Idiot",
-      "src": ""
+      "src": "./assets/fool.svg"
     },
     {
       "name": "The Gem",
@@ -62,7 +62,7 @@
     },
     {
       "name": "The Jester",
-      "src": ""
+      "src": "./assets/jester.svg"
     },
     {
       "name": "The Talons",
@@ -82,7 +82,7 @@
     },
     {
       "name": "The Vizier",
-      "src": ""
+      "src": "./assets/vizier.svg"
     },
     {
       "name": "Donjon",

@@ -96,7 +96,7 @@ body {
   overflow: hidden;
 }
 
-#back-icon {
+#back-icon, #front-icon {
   width: 35%;
 }
 
