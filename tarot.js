@@ -2,7 +2,7 @@ var cards;
 fillDeck();
 
 function fillDeck() {
-  fetch('./many_things.json')
+  fetch('./tarot.json')
   .then(response => response.json())
   .then(data => {
     console.log(data)
